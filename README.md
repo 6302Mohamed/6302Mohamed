@@ -46,8 +46,11 @@ I am available for professional collaborations and freelance projects:
 ---
 
 ### 📈 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=6302Mohamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6302Mohamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=6302Mohamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Mohamed's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6302Mohamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="Top Langs" height="150" />
+</p>
 
 ---
 
