@@ -21,6 +21,9 @@ I am available for professional collaborations and freelance projects:
 
 ---
 
+
+![Snake Animation](https://raw.githubusercontent.com/6302Mohamed/6302Mohamed/output/github-snake.svg)
+
 ### 🛠 My Technical Toolbox
 
 | Category | Technologies |
