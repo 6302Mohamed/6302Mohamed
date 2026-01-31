@@ -7,15 +7,28 @@
 <div align="center">
 
 ## 🚀 AI Engineer & Automation Architect
-### Transforming Data into Intelligent, Automated Workflows
+### High-Performance Intelligence meets Industrial Automation
 
-I build systems that don't just "think," but **act**. Based in **Hargeisa**, I specialize in the full development lifecycle: from training **Deep Learning** models and **Computer Vision** systems to building robust **ASP.NET Core** backends and automating everything via **Jenkins CI/CD** pipelines.
-
-**Whether it's scraping "messy" data with Playwright or deploying On-Device AI with Kotlin, I focus on scalable, production-ready solutions.**
-
-
-**📫 Ready to automate your workflow?** [**Hire me on Upwork**](https://www.upwork.com/freelancers/~01772658140409015c) • [**Send an Email**](mailto:arafatyousufomar3322@gmail.com)
 </div>
+
+<div align="left">
+
+#### 🧠 Data Science & AI 
+I build the "Brain" of the application. My focus is on **Computer Vision**, **NLP**, and **Deep Learning**, specifically optimizing models like **MobileNet** for on-device performance and real-world accuracy.
+
+#### ⚙️ Automation & DevOps 
+I build the "Engine" that keeps everything running. I specialize in **GitHub Automation**, **Jenkins CI/CD pipelines**, and high-speed web scraping using **Playwright** and **Selenium** to turn manual tasks into hands-free workflows.
+
+</div>
+
+<div align="center">
+
+---
+**📫 Ready to scale your project?** [**Hire me on Upwork**](https://www.upwork.com/freelancers/~01772658140409015c) • [**Send an Email**](mailto:arafatyousufomar3322@gmail.com)
+
+</div>
+
+---
 
 
 
