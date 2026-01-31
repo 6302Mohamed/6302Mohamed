@@ -12,7 +12,8 @@
 
 
   
-### 📊 AI & MLOps Engineer | Python Automation Developer
+### 📊 AI Engineering | MLOps | Python Automation
+
 
 I bridge the gap between complex data and actionable insights. Based in Hargeisa, Somalia, I specialize in building intelligent, production-ready systems through two core pillars:
 
