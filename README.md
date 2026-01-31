@@ -35,7 +35,6 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 ---
 
----
 ### 🚀 Featured Projects
 
 * **[LeafAI | Crop Disease Detection](https://github.com/6302Mohamed/leafai-crop-disease-detection)** 🌿
