@@ -4,14 +4,17 @@
 
 
   
-### 📊 AI Engineer & Python Automation Developer
+### 📊 AI & MLOps Engineer | Python Automation Developer
 
-I bridge the gap between complex data and actionable insights. Based in Hargeisa, Somalia, I specialize in building intelligent systems that solve real-world problems through two core pillars:
+I bridge the gap between complex data and actionable insights. Based in Hargeisa, Somalia, I specialize in building intelligent, production-ready systems through two core pillars:
 
-* **AI Engineering:** Developing **Computer Vision** and **NLP** solutions, with a focus on optimizing models like **MobileNet** for on-device performance and high-accuracy results.
-* **Python Automation:** Engineering robust **CI/CD pipelines** with **Jenkins** and high-speed web scraping workflows using **Playwright** and **Selenium**.
+* **AI & MLOps Engineering:** Designing end-to-end **Machine Learning** lifecycles—from data preprocessing with **Pandas/NumPy** to training and deploying high-performance **Deep Learning** models using **PyTorch** and **TensorFlow**.
+* **Python Automation & Data Extraction:** Scaling workflows with **Python**-driven automation. I build "set it and forget it" **CI/CD pipelines** with **Jenkins** and engineer advanced data extraction systems using **Playwright** and **Selenium**.
 
-**Ready to automate your workflow?** [Hire me on Upwork](https://www.upwork.com/freelancers/~01772658140409015c) or [Send an Email](mailto:arafatyousufomar3322@gmail.com).
+**⚡ Fun Fact:** I have a growing collection of Udemy courses that I promised myself I’d finish "this month." I haven't started them yet, but I’m an expert at reading the syllabus.
+
+**🤝 Hit me up!** Whether you want to talk shop, argue about why Python is the king of languages, or build something that actually makes an impact.
+
 
 
 ---
