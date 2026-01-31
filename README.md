@@ -20,9 +20,20 @@ I bridge the gap between complex data and actionable insights. Based in Hargeisa
 ---
 
 ### 💼 Work With Me
-I am available for professional collaborations and freelance projects:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yousuf-husein-606b15394/) **LinkedIn Profile**
-* [![Upwork](https://img.shields.io/badge/Upwork-%236FDA44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01772658140409015c) **Hire me on Upwork** (Expert in Python Automation & API Integration)
+I’m currently open to high-impact collaborations and freelance roles where I can help you bridge the gap between AI research and production reality.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-yousuf-husein-606b15394/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01772658140409015c">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+</p>
+
+> **Specializing in:** Scalable AI/MLOps, End-to-End Python Automation, and Complex Data Extraction.
+
+---
 
 ---
 ### 🚀 Featured Projects
