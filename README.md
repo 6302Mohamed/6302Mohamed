@@ -1,4 +1,6 @@
-# Hi, I'm Mohamed Yousuf Husein! 👋
+<h1 align="center">
+  Hi, I'm <span style="color: #0077B5;">Mohamed Yousuf Husein</span>! 👋
+</h1>
 
 ### 📊 Data Science Specialist | Python Automation Developer
 I bridge the gap between complex data and actionable insights. Based in Hargeisa, Somaliland, I specialize in **Machine Learning**, **Computer Vision**, and **API Integration** to build systems that solve real-world problems.
