@@ -2,8 +2,22 @@
 
   Hi, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Mohamed+Yousuf+Husein" alt="Mohamed Yousuf Husein" /> 👋
   
-### 📊 Data Science Specialist | Python Automation Developer
-I bridge the gap between complex data and actionable insights. Based in Hargeisa, Somaliland, I specialize in **Machine Learning**, **Computer Vision**, and **API Integration** to build systems that solve real-world problems.
+<div align="center">
+
+## 🚀 AI Engineer & Automation Architect
+### Transforming Data into Intelligent, Automated Workflows
+
+I build systems that don't just "think," but **act**. Based in **Hargeisa**, I specialize in the full development lifecycle: from training **Deep Learning** models and **Computer Vision** systems to building robust **ASP.NET Core** backends and automating everything via **Jenkins CI/CD** pipelines.
+
+**Whether it's scraping "messy" data with Playwright or deploying On-Device AI with Kotlin, I focus on scalable, production-ready solutions.**
+
+
+
+---
+**📫 Ready to automate your workflow?** [**Hire me on Upwork**](https://www.upwork.com/freelancers/~01772658140409015c) • [**Send an Email**](mailto:arafatyousufomar3322@gmail.com)
+</div>
+
+---
 
 ---
 
