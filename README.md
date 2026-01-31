@@ -13,13 +13,22 @@ I am available for professional collaborations and freelance projects:
 * [![Upwork](https://img.shields.io/badge/Upwork-%236FDA44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01772658140409015c) **Hire me on Upwork** (Expert in Python Automation & API Integration)
 
 ---
+Featured Projects
+LeafAI 🌿
 
-### 🚀 Featured Projects
+The Solution: Developed an end-to-end AI-driven application for plant health analysis, utilizing Computer Vision to detect diseases with high accuracy.
 
-* **LeafAI** 🌿
-    * Developed an AI-driven solution for plant health analysis, utilizing Computer Vision to detect diseases and provide growth insights.
-* **PDF Invoice Extractor** 📄
-    * Built an automated pipeline to extract structured data from unstructured PDF invoices using Deep Learning and NLP, significantly reducing manual data entry time.
+The Tech: Python • PyTorch • FastAPI • OpenCV
+
+View Project (Ensure this link is correct)
+
+PDF Invoice Extractor 📄
+
+The Solution: Built an automated industrial pipeline to extract structured data from "messy" unstructured PDF invoices using NLP and Deep Learning, reducing manual entry time by over 90%.
+
+The Tech: Python • TensorFlow • Selenium • Regular Expressions
+
+View Project (Ensure this link is correct)
 
 ---
 ###  🌱 GitHub Contributions
