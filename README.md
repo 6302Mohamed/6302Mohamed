@@ -1,6 +1,8 @@
 <h1 align="center">
 
   Hi, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Mohamed+Yousuf+Husein" alt="Mohamed Yousuf Husein" /> 👋
+
+---
   
 <div align="center">
 
