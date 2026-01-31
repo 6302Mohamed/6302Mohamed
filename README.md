@@ -14,12 +14,10 @@ I build systems that don't just "think," but **act**. Based in **Hargeisa**, I s
 **Whether it's scraping "messy" data with Playwright or deploying On-Device AI with Kotlin, I focus on scalable, production-ready solutions.**
 
 
-
----
 **📫 Ready to automate your workflow?** [**Hire me on Upwork**](https://www.upwork.com/freelancers/~01772658140409015c) • [**Send an Email**](mailto:arafatyousufomar3322@gmail.com)
 </div>
 
----
+
 
 ---
 
