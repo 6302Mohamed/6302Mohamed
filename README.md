@@ -13,22 +13,17 @@ I am available for professional collaborations and freelance projects:
 * [![Upwork](https://img.shields.io/badge/Upwork-%236FDA44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01772658140409015c) **Hire me on Upwork** (Expert in Python Automation & API Integration)
 
 ---
-Featured Projects
-LeafAI 🌿
+### 🚀 Featured Projects
 
-The Solution: Developed an end-to-end AI-driven application for plant health analysis, utilizing Computer Vision to detect diseases with high accuracy.
+* **[LeafAI | Crop Disease Detection](https://github.com/6302Mohamed/leafai-crop-disease-detection)** 🌿
+    * **The Solution:** An AI-powered Android application for real-time crop disease diagnosis. Optimized a **MobileNet** model for mobile performance using **TensorFlow Lite** to ensure fast, offline detection.
+    * **The Tech:** `Kotlin` • `Python` • `TensorFlow Lite` • `MobileNetV2` • `Computer Vision`
 
-The Tech: Python • PyTorch • FastAPI • OpenCV
+* **[PDF Invoice Parser](https://github.com/6302Mohamed/pdf-invoice-parser)** 📄
+    * **The Solution:** A robust data extraction tool designed to parse "messy" PDF invoices. It automates the conversion of unstructured documents into clean **CSV** and **Excel** formats.
+    * **The Tech:** `Python` • `pdfplumber` • `Pandas` • `Regular Expressions`
 
-View Project (Ensure this link is correct)
-
-PDF Invoice Extractor 📄
-
-The Solution: Built an automated industrial pipeline to extract structured data from "messy" unstructured PDF invoices using NLP and Deep Learning, reducing manual entry time by over 90%.
-
-The Tech: Python • TensorFlow • Selenium • Regular Expressions
-
-View Project (Ensure this link is correct)
+---
 
 ---
 ###  🌱 GitHub Contributions
