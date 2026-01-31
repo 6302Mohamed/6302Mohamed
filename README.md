@@ -63,7 +63,7 @@ I am available for professional collaborations and freelance projects:
 - 💬 Ask me about **Python, SQL, or how to extract data from messy PDFs.**
 - 📫 **Email:** arafatyousufomar3322@gmail.com
 - 📍 **Location:** Hargeisa, Somalia somaliland
----
+
 
 
 <p align="center">
