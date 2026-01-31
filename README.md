@@ -35,7 +35,7 @@ I’m currently open to high-impact collaborations and freelance roles where I c
   <a href="https://www.linkedin.com/in/mohamed-yousuf-husein-606b15394/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01772658140409015c">
+  <a href="https://www.upwork.com/freelancers/~01c1a0b66a5738131e">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
 </p>
