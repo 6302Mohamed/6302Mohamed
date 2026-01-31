@@ -4,32 +4,14 @@
 
 ---
   
-<div align="center">
+### 📊 AI Engineer & Python Automation Developer
 
-## 🚀 AI Engineer & Automation Architect
-### High-Performance Intelligence meets Industrial Automation
+I bridge the gap between complex data and actionable insights. Based in Hargeisa, Somalia, I specialize in building intelligent systems that solve real-world problems through two core pillars:
 
-</div>
+* **AI Engineering:** Developing **Computer Vision** and **NLP** solutions, with a focus on optimizing models like **MobileNet** for on-device performance and high-accuracy results.
+* **Python Automation:** Engineering robust **CI/CD pipelines** with **Jenkins** and high-speed web scraping workflows using **Playwright** and **Selenium**.
 
-<div align="left">
-
-#### 🧠 Data Science & AI 
-I build the "Brain" of the application. My focus is on **Computer Vision**, **NLP**, and **Deep Learning**, specifically optimizing models like **MobileNet** for on-device performance and real-world accuracy.
-
-#### ⚙️ Automation & DevOps 
-I build the "Engine" that keeps everything running. I specialize in **GitHub Automation**, **Jenkins CI/CD pipelines**, and high-speed web scraping using **Playwright** and **Selenium** to turn manual tasks into hands-free workflows.
-
-</div>
-
-<div align="center">
-
----
-**📫 Ready to scale your project?** [**Hire me on Upwork**](https://www.upwork.com/freelancers/~01772658140409015c) • [**Send an Email**](mailto:arafatyousufomar3322@gmail.com)
-
-</div>
-
----
-
+**Ready to automate your workflow?** [Hire me on Upwork](https://www.upwork.com/freelancers/~01772658140409015c) or [Send an Email](mailto:arafatyousufomar3322@gmail.com).
 
 
 ---
