@@ -127,7 +127,7 @@ I’m currently open to high-impact collaborations and freelance roles where I c
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 <a href="https://www.chess.com/member/hala3434">
-  <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" />
 </a>
 </p>
 
