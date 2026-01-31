@@ -99,7 +99,7 @@ I am available for professional collaborations and freelance projects:
 - 💬 **Ask me about:** Python, C#, or how to extract data from messy PDFs.
 - 📍 **Location:** Hargeisa, Somalia 🇸🇴
 
----
+
 
 
 
