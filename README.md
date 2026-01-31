@@ -1,7 +1,8 @@
 <h1 align="center">
-  Hi, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Mohamed+Yousuf+Husein" alt="Mohamed Yousuf Husein" /> 👋
+  Hi, I'm 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&width=500&lines=Mohamed+Yousuf+Husein" alt="Mohamed Yousuf Husein" style="vertical-align: middle;" /> 
+  👋
 </h1>
-
 ### 📊 Data Science Specialist | Python Automation Developer
 I bridge the gap between complex data and actionable insights. Based in Hargeisa, Somaliland, I specialize in **Machine Learning**, **Computer Vision**, and **API Integration** to build systems that solve real-world problems.
 
