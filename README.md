@@ -112,19 +112,29 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 ---
 
----
+
 
 ### 🤝 Let's Connect!
 
 <p align="left">
-<a href="mailto:arafatyousufomar3322@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mohamed-yousuf-husein-606b15394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.upwork.com/freelancers/~01772658140409015c"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="mailto:arafatyousufomar3322@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-yousuf-husein-606b15394/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01772658140409015c">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+</a>
+<a href="https://www.chess.com/member/hala3434">
+  <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" />
+</a>
 </p>
 
 - 🔭 **Currently exploring:** Advanced **Generative AI** and **Azure Cloud Architecture**.
 - 💬 **Ask me about:** Python, C#, or how to extract data from messy PDFs.
 - 📍 **Location:** Hargeisa, Somalia 🇸🇴
+
 
 
 
