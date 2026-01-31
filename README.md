@@ -37,15 +37,22 @@ I am available for professional collaborations and freelance projects:
 
 ### 🛠 My Technical Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python (Expert), SQL, R, Java |
-| **AI & ML** | Machine Learning, Deep Learning, Computer Vision, Neural Networks |
-| **Automation** | API Integration, Web Scraping, Data Processing Systems |
-| **Cloud & DevOps** | Azure, Git, Docker |
-| **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch |
+**Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+**AI & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Automation & Cloud**
+![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 📈 GitHub Stats
 
