@@ -20,7 +20,7 @@ I am available for professional collaborations and freelance projects:
     * Built an automated pipeline to extract structured data from unstructured PDF invoices using Deep Learning and NLP, significantly reducing manual data entry time.
 
 ---
-### 🚀 GitHub Contributions
+###  🌱 GitHub Contributions
 
 
 <div align="center">
