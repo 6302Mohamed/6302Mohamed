@@ -9,6 +9,11 @@
   👋
 </h1>
 
+<div align="center">
+  <a href="https://u8views.com/github/6302Mohamed">
+    <img src="https://u8views.com/api/v1/github/profiles/117586613/views/day-week-month-total-count.svg" alt="Profile Views">
+  </a>
+</div>
 
 
   
