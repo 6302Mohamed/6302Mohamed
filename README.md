@@ -40,22 +40,6 @@ graph LR
 
 
 ---
-### 🪜 The AI/MLOps Pipeline
-<div>
-┌──────────────────┐      ┌───────────────────┐      ┌──────────────────┐
-│ Data Engineering │ ───> │ Model Development │ ───> │ Evaluation/Tuning│
-└────────┬─────────┘      └─────────┬─────────┘      └────────┬─────────┘
-         ^                          ^                         │
-         │          Monitoring      │       Production        │
-         └──────────────────────────┴─────────────────────────┘
-                                    │
-                          ┌─────────▼──────────┐
-                          │  PROD DEPLOYMENT   │
-                          └────────────────────┘
-
-  </div>
-                          
----
 
 ### 💼 Work With Me
 I’m currently open to high-impact collaborations and freelance roles where I can help you bridge the gap between AI research and production reality.
