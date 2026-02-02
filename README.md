@@ -41,6 +41,7 @@ graph LR
 
 ---
 ### 🪜 The AI/MLOps Pipeline
+<div>
 ┌──────────────────┐      ┌───────────────────┐      ┌──────────────────┐
 │ Data Engineering │ ───> │ Model Development │ ───> │ Evaluation/Tuning│
 └────────┬─────────┘      └─────────┬─────────┘      └────────┬─────────┘
@@ -51,6 +52,9 @@ graph LR
                           ┌─────────▼──────────┐
                           │  PROD DEPLOYMENT   │
                           └────────────────────┘
+
+  </div>
+                          
 ---
 
 ### 💼 Work With Me
