@@ -143,7 +143,7 @@ I’m currently open to high-impact collaborations and freelance roles where I c
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/mohmaedyoussufhusein" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-mohmaedyoussufhusein-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
 </a>
 
 </p>
