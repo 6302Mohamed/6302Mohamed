@@ -150,7 +150,8 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 
 
-- 🔭 **Currently exploring:** Advanced **Generative AI** and **Azure Cloud Architecture**.
+- 🔭 **Currently exploring:** ![Generative AI](https://img.shields.io/badge/Generative_AI-Llama3--LangChain-blue?style=flat-square&logo=meta) 
+  ![Azure Cloud](https://img.shields.io/badge/Cloud-Azure_Architecture-0089D6?style=flat-square&logo=microsoft-azure)
 - 💬 **Ask me about:** Python, C#, or how to extract data from messy PDFs.
 - 📍 **Location:** Hargeisa, Somaliland 🇸🇴
 
