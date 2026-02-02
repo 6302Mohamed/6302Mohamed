@@ -142,12 +142,10 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 <a href="https://www.upwork.com/freelancers/~01772658140409015c">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
-<a href="https://www.chess.com/member/hala3434">
-  <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" />
-</a>
+
 </p>
 
-♟️ I enjoy chess for the same reason I enjoy engineering systems: trade-offs, long-term planning, and thinking a few moves ahead.
+
 
 - 🔭 **Currently exploring:** Advanced **Generative AI** and **Azure Cloud Architecture**.
 - 💬 **Ask me about:** Python, C#, or how to extract data from messy PDFs.
