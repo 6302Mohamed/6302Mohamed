@@ -153,7 +153,10 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 - 🔭 **Currently exploring:** ![Generative AI](https://img.shields.io/badge/Generative_AI-Llama3--LangChain-blue?style=flat-square&logo=meta) 
   ![Azure Cloud](https://img.shields.io/badge/Cloud-Azure_Architecture-0089D6?style=flat-square&logo=microsoft-azure)
 - 💬 **Ask me about:** Python, C#, or how to extract data from messy PDFs.
-- 📍 **Location:** Hargeisa, Somaliland 🇸🇴
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Hargeisa%2C%20Somaliland-E41B17?style=flat-square" />
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-brightgreen?style=flat-square" />
+</p>
 
 
 
