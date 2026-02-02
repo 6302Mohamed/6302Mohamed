@@ -121,10 +121,7 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 ---
 
-### 🎓 Education
-* **B.S. in Computer Science** *Focus on Software Engineering, Data Structures, and Artificial Intelligence.*
 
----
 ### 📈 GitHub Stats
 
 
@@ -134,6 +131,12 @@ I’m currently open to high-impact collaborations and freelance roles where I c
   
   <img src="https://github-readme-stats-theta-ruddy-48.vercel.app/api/top-langs/?username=6302Mohamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=8" alt="Top Langs" height="150" />
 </p>
+
+---
+
+
+### 🎓 Education
+* **B.S. in Computer Science** *Focus on Software Engineering, Data Structures, and Artificial Intelligence.*
 
 ---
 
