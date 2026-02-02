@@ -25,6 +25,22 @@ I bridge the gap between complex data and actionable insights. Based in Hargeisa
 * **AI & MLOps Engineering:** Designing end-to-end **Machine Learning** lifecycles—from data preprocessing with **Pandas/NumPy** to training and deploying high-performance **Deep Learning** models using **PyTorch** and **TensorFlow**.
 * **Python Automation & Data Extraction:** Scaling workflows with **Python**-driven automation. I build "set it and forget it" **CI/CD pipelines** with **Jenkins** and engineer advanced data extraction systems using **Playwright** and **Selenium**.
 
+graph LR
+    %% Main Flow
+    Data[(Data Engineering)] --> Train(Model Development)
+    Train --> Eval(Evaluation & Tuning)
+    Eval --> Deploy{Production Deployment}
+    
+    %% Feedback Loops
+    Deploy -.->|Monitoring| Data
+    Deploy -.->|Retraining| Train
+
+    %% Styling
+    style Data fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
+    style Train fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
+    style Eval fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
+    style Deploy fill:#6FDA44,stroke:#333,stroke-width:2px,color:#fff
+
 **⚡ Fun Fact:** I have a growing collection of Udemy courses that I promised myself I’d finish "this month." I haven't started them yet, but I’m an expert at reading the syllabus.
 
 **🤝 Hit me up!** Whether you want to talk shop, argue about why Python is the king of languages, or build something that actually makes an impact.
@@ -113,6 +129,10 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 ---
 
+### 🎓 Education
+* **B.S. in Computer Science** *Focus on Software Engineering, Data Structures, and Artificial Intelligence.*
+
+---
 ### 📈 GitHub Stats
 
 
