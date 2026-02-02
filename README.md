@@ -51,7 +51,7 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 
 
-### 🚀 Solutions I Offer (Freelance & Upwork)
+### ⚒️ Solutions I Offer (Freelance & Upwork)
 Since I am building my footprint on Upwork, I focus on delivering high-impact, engineering-grade solutions:
 * **Custom AI Solutions:** Integrating ML models into existing business workflows and apps.
 * **Resilient Web Scraping:** Building data extraction pipelines that bypass bot detection and handle complex JS.
