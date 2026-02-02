@@ -40,22 +40,17 @@ graph LR
 
 
 ---
-
-graph LR
-    %% The Pipeline
-    Data[(Data Engineering)] --> Train(Model Development)
-    Train --> Eval(Evaluation & Tuning)
-    Eval --> Deploy{Production Deployment}
-    
-    %% The MLOps Feedback Loops
-    Deploy -.->|Monitoring| Data
-    Deploy -.->|Retraining| Train
-
-    %% Professional Styling
-    style Data fill:#0077B5,color:#fff,stroke:#333
-    style Train fill:#0077B5,color:#fff,stroke:#333
-    style Eval fill:#0077B5,color:#fff,stroke:#333
-    style Deploy fill:#6FDA44,color:#fff,stroke:#333
+### 🪜 The AI/MLOps Pipeline
+┌──────────────────┐      ┌───────────────────┐      ┌──────────────────┐
+│ Data Engineering │ ───> │ Model Development │ ───> │ Evaluation/Tuning│
+└────────┬─────────┘      └─────────┬─────────┘      └────────┬─────────┘
+         ^                          ^                         │
+         │          Monitoring      │       Production        │
+         └──────────────────────────┴─────────────────────────┘
+                                    │
+                          ┌─────────▼──────────┐
+                          │  PROD DEPLOYMENT   │
+                          └────────────────────┘
 ---
 
 ### 💼 Work With Me
