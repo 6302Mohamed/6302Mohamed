@@ -136,7 +136,9 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 
 ### 🎓 Education
-* **B.S. in Computer Science** *Focus on Software Engineering, Data Structures, and Artificial Intelligence.*
+- **B.S. in Computer Science**
+  - *Core specialization in **Artificial Intelligence**, **Data Structures**, and **Algorithmic Optimization**.*
+  - *Grounded in **Software Engineering** principles with a focus on **Cloud Architecture** and **DevOps**.*
 
 ---
 
