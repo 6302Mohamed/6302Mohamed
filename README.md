@@ -31,15 +31,7 @@ graph LR
     Train --> Eval(Evaluation & Tuning)
     Eval --> Deploy{Production Deployment}
     
-    %% Feedback Loops
-    Deploy -.->|Monitoring| Data
-    Deploy -.->|Retraining| Train
 
-    %% Styling
-    style Data fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
-    style Train fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
-    style Eval fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
-    style Deploy fill:#6FDA44,stroke:#333,stroke-width:2px,color:#fff
 
 **⚡ Fun Fact:** I have a growing collection of Udemy courses that I promised myself I’d finish "this month." I haven't started them yet, but I’m an expert at reading the syllabus.
 
@@ -47,6 +39,23 @@ graph LR
 
 
 
+---
+
+graph LR
+    %% The Pipeline
+    Data[(Data Engineering)] --> Train(Model Development)
+    Train --> Eval(Evaluation & Tuning)
+    Eval --> Deploy{Production Deployment}
+    
+    %% The MLOps Feedback Loops
+    Deploy -.->|Monitoring| Data
+    Deploy -.->|Retraining| Train
+
+    %% Professional Styling
+    style Data fill:#0077B5,color:#fff,stroke:#333
+    style Train fill:#0077B5,color:#fff,stroke:#333
+    style Eval fill:#0077B5,color:#fff,stroke:#333
+    style Deploy fill:#6FDA44,color:#fff,stroke:#333
 ---
 
 ### 💼 Work With Me
