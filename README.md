@@ -25,14 +25,6 @@ I bridge the gap between complex data and actionable insights. Based in Hargeisa
 * **AI & MLOps Engineering:** Designing end-to-end **Machine Learning** lifecycles—from data preprocessing with **Pandas/NumPy** to training and deploying high-performance **Deep Learning** models using **PyTorch** and **TensorFlow**.
 * **Python Automation & Data Extraction:** Scaling workflows with **Python**-driven automation. I build "set it and forget it" **CI/CD pipelines** with **Jenkins** and engineer advanced data extraction systems using **Playwright** and **Selenium**.
 
-graph LR
-    %% Main Flow
-    Data[(Data Engineering)] --> Train(Model Development)
-    Train --> Eval(Evaluation & Tuning)
-    Eval --> Deploy{Production Deployment}
-    
-
-
 **⚡ Fun Fact:** I have a growing collection of Udemy courses that I promised myself I’d finish "this month." I haven't started them yet, but I’m an expert at reading the syllabus.
 
 **🤝 Hit me up!** Whether you want to talk shop, argue about why Python is the king of languages, or build something that actually makes an impact.
@@ -57,6 +49,15 @@ I’m currently open to high-impact collaborations and freelance roles where I c
 
 ---
 
+
+
+### 🚀 Solutions I Offer (Freelance & Upwork)
+Since I am building my footprint on Upwork, I focus on delivering high-impact, engineering-grade solutions:
+* **Custom AI Solutions:** Integrating ML models into existing business workflows and apps.
+* **Resilient Web Scraping:** Building data extraction pipelines that bypass bot detection and handle complex JS.
+* **Process Automation:** Turning manual, repetitive data tasks into automated, one-click Python scripts.
+* **System Optimization:** Refactoring and modernizing code for better performance and scalability.
+---
 ### 🚀 Featured Projects
 
 * **[LeafAI | Crop Disease Detection](https://github.com/6302Mohamed/leafai-crop-disease-detection)** 🌿
