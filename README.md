@@ -95,7 +95,7 @@ Since I am building my footprint on Upwork, I focus on delivering high-impact, e
 
 **AI & Machine Learning**
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white)
+(https://img.shields.io/badge/Deep_Learning-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-%23FFFFFF.svg?style=for-the-badge&logo=icloud&logoColor=black)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
