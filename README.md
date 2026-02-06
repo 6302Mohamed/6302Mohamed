@@ -15,6 +15,8 @@
   </a>
 </div>
 
+![Views](https://komarev.com/ghpvc/?username=6302Mohamed&color=blue)
+
 
   
 ### 📊 AI Engineering | MLOps | Python Automation
