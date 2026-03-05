@@ -178,7 +178,7 @@ Since I am building my footprint on Upwork, I focus on delivering high-impact, e
 
 
 
-- 🔭 **Currently exploring:** ![Generative AI](https://img.shields.io/badge/Generative_AI-Llama3--LangChain-blue?style=flat-square&logo=meta) 
+- 🔭 **Currently exploring:** ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Llama3--LangChain-success?style=flat-square&logo=meta) 
   ![Azure Cloud](https://img.shields.io/badge/Cloud-Azure_Architecture-0089D6?style=flat-square&logo=microsoft-azure)
 - 💬 **Ask me about:** Python, C#, or how to extract data from messy PDFs.
 <p align="center">
