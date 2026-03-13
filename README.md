@@ -37,13 +37,6 @@ I bridge the gap between complex data and actionable insights. Based in **Hargei
 
 
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent)
-
-
-
----
 
 ### 💼 Work With Me
 I’m currently open to high-impact collaborations and freelance roles where I can help you bridge the gap between AI research and production reality.
