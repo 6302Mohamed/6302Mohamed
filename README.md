@@ -18,8 +18,6 @@
 
 
 
-  
-### 📊 AI Engineering | MLOps | Python Automation
 
 
 ### 📊 AI Engineering | MLOps | Python Automation
