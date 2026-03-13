@@ -24,7 +24,7 @@
 
 I bridge the gap between complex data and actionable insights. Based in **Hargeisa, Somaliland**, I specialize in building intelligent, production-ready systems through two core pillars:
 
-* **AI & MLOps Engineering:** Designing end-to-end **Machine Learning** lifecycles—from data preprocessing with **Pandas/NumPy** to training and deploying high-performance **Deep Learning** models using **PyTorch** and **TensorFlow**.
+* **AI & MLOps Engineering:** Designing end-to-end **Machine Learning** lifecycles from data preprocessing with **Pandas/NumPy** to training and deploying high-performance **Deep Learning** models using **PyTorch** and **TensorFlow**.
 * **Python Automation & Data Extraction:** Scaling workflows with **Python**-driven automation. I build "set it and forget it" **CI/CD pipelines** with **Jenkins** and engineer advanced data extraction systems using **Playwright** and **Selenium**.
 
 **⚡ Fun Fact:** I come from a long line of poets and storytellers (*The Land of Poets*), so if my code reads like a masterpiece, now you know why.
