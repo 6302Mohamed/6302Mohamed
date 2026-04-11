@@ -124,11 +124,12 @@ I help businesses transition from manual operations to AI-driven autonomy using 
 
 ---
 
+---
 
 ### 📜 Professional Certifications & Training
 
-* **Microsoft AI Agents: From Foundations to Applications** * *Professional Certificate (In Progress)* — Mastering multi-agent orchestration, RAG architectures, and enterprise-grade AI deployment.
-* **Make.com (Integromat) Certified** * *Foundations & Advanced Workflow Design* — Specialized in building resilient, self-healing automation ecosystems and complex API integrations.
+* **Microsoft AI Agents: From Foundations to Applications** | *Professional Certificate (In Progress)* | Mastering multi-agent orchestration, RAG architectures, and enterprise-grade AI deployment.
+* **Make.com (Integromat) Certified** | *Foundations & Advanced Workflow Design* | Specialized in building resilient, self-healing automation ecosystems and complex API integrations.
 
 ---
 
