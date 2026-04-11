@@ -17,13 +17,13 @@
 
 ### 🤖 Agentic AI Specialist | MLOps Engineer | Automation Architect
 
-I build autonomous systems that don't just process data—they take action. Based in **Hargeisa**, I specialize in bridging the gap between static AI models and dynamic, agentic business workflows.
+I build autonomous systems that don't just process data; they take action. Based in **Hargeisa**, I specialize in bridging the gap between static AI models and dynamic, agentic business workflows.
 
 * **Agentic AI & Microsoft Ecosystem:** Currently engineering autonomous agents using **Microsoft’s AI stack** and **LangChain**. I focus on multi-agent orchestration, self-correcting workflows, and RAG-based intelligence.
 * **Applied MLOps:** Deploying and scaling models with a focus on reliability. I ensure AI systems are production-ready through structured **CI/CD pipelines**, model monitoring, and resource optimization.
 * **Ecosystem Automation:** I treat business processes like code. By combining **Python** with advanced orchestration tools, I build "digital employees" that handle everything from lead generation to complex data synthesis.
 
-**⚡ Fun Fact:** I come from a long line of poets and storytellers (*The Land of Poets*), so if my code reads like a masterpiece, now you know why.
+**⚡ Fun Fact:** I come from a culture where a single well-placed word can change history. I apply that same precision to my Agentic prompts; why write 100 lines of code when you can orchestrate a single intelligent agent to do the heavy lifting for you?
 
 ---
 
