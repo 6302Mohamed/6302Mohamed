@@ -77,25 +77,42 @@ I help businesses transition from manual operations to AI-driven autonomy using 
 
 ---
 
+---
+
 ### 🛠 My Technical Toolbox
 
-**Agentic & Automation**
+**🤖 Agentic & AI Orchestration**
 ![Make.com](https://img.shields.io/badge/Make.com-4433FF?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft_AI-Agentic_Apps-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**AI & MLOps**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Languages & Data**
+**🚀 Full-Stack & Enterprise Backend**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-Orchestration-orange?style=for-the-badge&logo=webhooks&logoColor=white)
+
+**📊 AI, MLOps & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🎓 Education
+
+**B.S. in Computer Science | ISBAT University**
+* **Honors:** First Class Honors (CGPA: 4.47/5.0)
+* **Core Specialization:** * **Artificial Intelligence:** Advanced Neural Networks & Computer Vision.
+    * **Software Engineering:** Architectural patterns (MVC, Microservices) and Clean Code.
+    * **Algorithmic Optimization:** High-performance data processing and structures.
+* **Key Achievements:** Top-tier performance in Python Programming and Machine Learning modules.
 
 ---
 
