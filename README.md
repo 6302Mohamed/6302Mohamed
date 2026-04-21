@@ -116,7 +116,7 @@ I help businesses transition from manual operations to AI-driven autonomy using 
 ### 🎓 Education
 
 **B.S. in Computer Science | ISBAT University**
-* **Honors:** First Class Honors (CGPA: 4.47/5.0)
+* **Honors:** First Class Honors 
 * **Core Specialization:** * **Artificial Intelligence:** Advanced Neural Networks & Computer Vision.
     * **Software Engineering:** Architectural patterns (MVC, Microservices) and Clean Code.
     * **Algorithmic Optimization:** High-performance data processing and structures.
