@@ -71,7 +71,10 @@ I document these automations as reusable **blueprints**, workflow notes, and imp
 👉 **[Make Automation Projects](https://github.com/6302Mohamed/make-automation-projects)**
 
 This repository showcases practical automation work focused on business systems, process design, and real-world workflow execution.
+
+
 ---
+
 
 ### 🚀 Featured Projects
 
