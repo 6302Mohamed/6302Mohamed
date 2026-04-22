@@ -15,15 +15,15 @@
   </a>
 </div>
 
-### 🤖 Agentic AI Specialist | MLOps Engineer | Automation Architect
+### 🤖 Agentic AI Engineer | LLMOps | Workflow Automation
 
-I build autonomous systems that don't just process data; they take action. Based in **Hargeisa**, I specialize in bridging the gap between static AI models and dynamic, agentic business workflows.
+I build AI systems and automation workflows that do more than generate outputs. They take action, connect tools, and support real business operations. Based in **Hargeisa**, I focus on bridging the gap between intelligent models and practical execution through agentic AI, LLM-powered systems, and workflow automation.
 
-* **Agentic AI & Microsoft Ecosystem:** Currently engineering autonomous agents using **Microsoft’s AI stack** and **LangChain**. I focus on multi-agent orchestration, self-correcting workflows, and RAG-based intelligence.
-* **Applied MLOps:** Deploying and scaling models with a focus on reliability. I ensure AI systems are production-ready through structured **CI/CD pipelines**, model monitoring, and resource optimization.
-* **Ecosystem Automation:** I treat business processes like code. By combining **Python** with advanced orchestration tools, I build "digital employees" that handle everything from lead generation to complex data synthesis.
+* **Agentic AI & LLM Systems:** I design intelligent systems using **Microsoft’s AI ecosystem**, **LangChain**, and modern orchestration patterns. My focus includes multi-step reasoning, RAG-powered workflows, and agents that can operate reliably inside real business processes.
+* **LLMOps & Reliability:** I care about making AI systems usable beyond demos. That includes structured deployment, observability, evaluation, iteration, and the engineering practices needed to keep LLM applications reliable in production.
+* **Workflow Automation & Orchestration:** Using **Make.com**, **n8n**, and **Python**, I build operational workflows that reduce manual work, connect business tools, and automate processes such as lead handling, notifications, routing, reporting, and AI-assisted task execution.
 
-**⚡ Fun Fact:** I come from a culture where a single well-placed word can change history. I apply that same precision to my Agentic prompts; why write 100 lines of code when you can orchestrate a single intelligent agent to do the heavy lifting for you?
+**⚡ Fun Fact:** I come from a culture where a single well-placed word can change history. I bring that same precision into prompts, workflows, and system design.
 
 ---
 
@@ -39,7 +39,7 @@ I’m currently open to high-impact collaborations where I can deploy agentic so
   </a>
 </p>
 
-> **Specializing in:** Autonomous AI Agents, Agentic MLOps, and Intelligent Business Orchestration.
+> **Specializing in:** Agentic AI, workflow automation, and intelligent business orchestration.
 
 ---
 
@@ -51,6 +51,26 @@ I help businesses transition from manual operations to AI-driven autonomy using 
 * **Intelligent Data Pipelines:** Moving beyond basic extraction to "understand" and structure unstructured data at scale.
 * **Custom Agent Development:** Creating specialized GPT-style agents tailored to specific industry knowledge bases.
 
+---
+### ⚡ Automation with Make.com & n8n
+
+I design and build business automation systems with **Make.com** and **n8n** that help teams reduce manual work, connect their tools, and run operations more efficiently.
+
+My automation work covers use cases such as:
+
+- lead generation and lead handling workflows
+- CRM and sales pipeline automation
+- business process automation across apps and teams
+- AI-powered workflow orchestration
+- notifications, follow-ups, and task handoffs
+- data movement, syncing, and operational reporting
+- custom workflows built around real business needs
+
+I document these automations as reusable **blueprints**, workflow notes, and implementation examples in my dedicated repository:
+
+👉 **[Make Automation Projects](https://github.com/6302Mohamed/make-automation-projects)**
+
+This repository showcases practical automation work focused on business systems, process design, and real-world workflow execution.
 ---
 
 ### 🚀 Featured Projects
@@ -65,6 +85,9 @@ I help businesses transition from manual operations to AI-driven autonomy using 
 
 ---
 
+
+
+
 ### 🌱 GitHub Contributions
 
 <div align="center">
@@ -77,39 +100,36 @@ I help businesses transition from manual operations to AI-driven autonomy using 
 
 ---
 
----
-
----
-
 ### 🛠 My Technical Toolbox
 
-**🤖 Agentic & AI Orchestration**
+**🤖 Agentic AI & LLM Frameworks**  
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**🔁 Workflow Automation & Orchestration**  
 ![Make.com](https://img.shields.io/badge/Make.com-4433FF?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft_AI-Agentic_Apps-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-API_Orchestration-orange?style=for-the-badge)
+
+**🧪 LLMOps, Evals & Observability**  
+![LangSmith](https://img.shields.io/badge/LangSmith-111111?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-4F46E5?style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-E6522C?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+**🚀 Backend, APIs & Deployment**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**📊 MLOps & Production Engineering**
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-**🔬 AI & Data Science**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**🚀 Enterprise Backend & Logic**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-API_Orchestration-orange?style=for-the-badge&logo=webhooks&logoColor=white)
+**📊 AI & Data Science**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
