@@ -3,7 +3,7 @@
   <br/>
   <img
     style="display: inline-block;"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Mohamed+Yousuf+Husein"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Mohamed+Yousuf+Hussein"
     alt="Mohamed Yousuf Hussein"
   />
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">
