@@ -142,7 +142,7 @@ This repository showcases practical automation work focused on business systems,
 
 **B.S. in Computer Science | ISBAT University**
 * **Honors:** First Class Honors 
-* **Core Specialization:** * **Artificial Intelligence:** Advanced Neural Networks & Computer Vision.
+* **Core Specialization:**  **Artificial Intelligence:** Advanced Neural Networks & Computer Vision.
     * **Software Engineering:** Architectural patterns (MVC, Microservices) and Clean Code.
     * **Algorithmic Optimization:** High-performance data processing and structures.
 * **Key Achievements:** Top-tier performance in Python Programming and Machine Learning modules.
