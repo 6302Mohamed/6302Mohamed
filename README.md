@@ -23,6 +23,8 @@ I build AI systems and automation workflows that do more than generate outputs. 
 * **LLMOps & Reliability:** I care about making AI systems usable beyond demos. That includes structured deployment, observability, evaluation, iteration, and the engineering practices needed to keep LLM applications reliable in production.
 * **Workflow Automation & Orchestration:** Using **Make.com**, **n8n**, and **Python**, I build operational workflows that reduce manual work, connect business tools, and automate processes such as lead handling, notifications, routing, reporting, and AI-assisted task execution.
 
+> **Engineering Philosophy:** My portfolio represents a progression from foundational business process automation to complex, autonomous AI agentic engineering. Whether building a simple routing system or a multi-agent Human-in-the-Loop AI pipeline, my design philosophy remains the same: If the automation isn't auditable, validated, and fault-tolerant, it isn't ready for production. I build systems that don't just "work": they provide the visibility and reliability required for actual business operations.
+
 **⚡ Fun Fact:** I come from a culture where a single well-placed word can change history. I bring that same precision into prompts, workflows, and system design.
 
 ---
