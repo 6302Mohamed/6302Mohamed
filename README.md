@@ -134,6 +134,8 @@ A voice-enabled AI workflow for appointment booking, cancellation, waitlisting, 
 
 This project is not just a “voice agent.” It is a workflow architecture project showing how an AI interface can connect to real backend logic and operational decisions.
 
+**[View Project Documentation →](https://github.com/6302Mohamed/ai-dental-receptionist-workflow)**
+
 ---
 
 ### ⚡ Make.com Automation Systems
@@ -150,6 +152,8 @@ A collection of business automation projects built with Make.com, focused on int
 - Approval and notification flows
 - AI-assisted workflow execution
 - Reusable automation blueprints and implementation notes
+
+**[Explore Automation Projects →](https://github.com/6302Mohamed/make-automation-projects)**
 
 ---
 
@@ -170,6 +174,8 @@ An AI workspace for chat, file-based summarization, and persistent conversation 
 - Persistent chat thread handling
 - Practical AI interface design
 
+**[View Project →](https://github.com/6302Mohamed/sketchy-ai-chatbot)**
+
 ---
 
 ### 🌱 Earlier AI / Computer Vision Project
@@ -183,22 +189,23 @@ A mobile-focused computer vision project for crop disease detection.
 
 This project reflects my earlier AI/ML foundation before moving deeper into agentic AI systems and workflow automation.
 
+**[View Project →](https://github.com/6302Mohamed/leafai-crop-disease-detection)**
+
 ---
 
 ## 💼 Work With Me
 
-I am open to freelance projects, collaborations, and early technical opportunities around **AI-powered workflow systems**.
+I help teams turn messy, repetitive workflows into reliable AI-assisted systems.
 
-I can help design or prototype workflows for:
+I do not just connect apps together. I map the business process, design the workflow logic, connect the required APIs or tools, add human review where needed, and document the system so it can actually be used.
 
-- Appointment-based businesses
-- Hotels and guest inquiry workflows
-- Real estate lead qualification and viewing requests
-- Customer support triage
-- Sales and lead intake workflows
-- Internal admin and operations automation
-- Document intake, routing, and review workflows
-- Human-in-the-loop AI approval systems
+| Area | Common Problem | How I Help |
+|---|---|---|
+| Appointment-based businesses | Manual booking, cancellations, and follow-up | AI-assisted intake, scheduling workflows, staff alerts, and backend-connected booking logic |
+| Real estate teams | Leads scattered across forms, messages, and spreadsheets | Lead intake, qualification, routing, CRM-style updates, and follow-up workflows |
+| Customer support teams | Repetitive triage and slow response handling | AI-assisted classification, routing, draft replies, and escalation paths |
+| Internal operations | Admin tasks spread across disconnected tools | Workflow automation, approvals, notifications, reporting, and human-in-the-loop handoffs |
+| Document-heavy workflows | Manual review of forms, files, and extracted data | AI-assisted document intake, validation, routing, and review workflows |
 
 The pattern I focus on is:
 
@@ -211,7 +218,6 @@ Business request
 → team notification or task handoff
 → human review when needed
 ```
-
 If you have a manual workflow that is repetitive, messy, or difficult to track, I can help turn it into a reliable AI-assisted automation system.
 
 ---
