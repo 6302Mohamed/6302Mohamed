@@ -369,8 +369,8 @@ Human-in-the-loop AI systems
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Hargeisa-E41B17?style=flat-square" />
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%2B%20Workflow%20Automation-blue?style=flat-square" />
-</p>
+
+![Location](https://img.shields.io/badge/Location-Hargeisa-8B4513?style=flat-square)
+![Availability](https://img.shields.io/badge/Availability-Open%20to%20Work-8B4513?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Agentic%20AI%20%2B%20Workflow%20Automation-8B4513?style=flat-square)
+
