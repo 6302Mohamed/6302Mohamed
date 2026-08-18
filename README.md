@@ -32,13 +32,13 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mohamed-yousuf-hussein-606b15394/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.upwork.com/freelancers/~01c1a0b66a5738131e">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  <img src="https://img.shields.io/badge/Upwork-8B4513?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arafatyousufomar3322@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
