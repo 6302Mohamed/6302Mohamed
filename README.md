@@ -13,11 +13,22 @@
 
 ### Agentic AI & Workflow Automation Engineer  
 **Computer Science • AI agents • workflow architecture • APIs • backend-connected automation**
+<div align="center">
 
-<a href="https://u8views.com/github/6302Mohamed">
-  <img src="https://u8views.com/api/v1/github/profiles/117586613/views/day-week-month-total-count.svg" alt="Profile Views">
-</a>
+  <!-- Invisible u8views tracking request -->
+  <img
+    src="https://u8views.com/api/v1/github/profiles/117586613/views/pixel.svg"
+    width="0"
+    height="0"
+    alt=""
+  />
 
+  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.day_count&label=Views%20today&color=8B4513&labelColor=3B2416" alt="Views Today"></a>
+  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.week_count&label=Week&color=8B4513&labelColor=3B2416" alt="Views This Week"></a>
+  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.month_count&label=Month&color=8B4513&labelColor=3B2416" alt="Views This Month"></a>
+  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.total_count&label=Total&color=8B4513&labelColor=3B2416" alt="Total Views"></a>
+
+</div>
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mohamed-yousuf-hussein-606b15394/">
