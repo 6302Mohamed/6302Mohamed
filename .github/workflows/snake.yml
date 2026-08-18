@@ -16,9 +16,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # The first color (#000000) is the background cell color
           outputs: |
-            dist/github-snake.svg?color_snake=red&color_dots=#16161e,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-snake-dark.svg?color_snake=red&color_dots=#16161e,#9be9a8,#40c463,#30a14e,#216e39
-        
+            dist/github-snake.svg?color_snake=#D2A679&color_dots=#16161e,#E8D5C4,#C89B6D,#A8643A,#8B4513
+            dist/github-snake-dark.svg?color_snake=#D2A679&color_dots=#16161e,#E8D5C4,#C89B6D,#A8643A,#8B4513
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
