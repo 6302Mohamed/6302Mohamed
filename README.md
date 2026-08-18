@@ -338,8 +338,8 @@ I apply that foundation when building AI workflows, automation systems, and back
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-theta-ruddy-48.vercel.app/api?username=6302Mohamed&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false&bg_color=000000&include_all_commits=true&count_private=true" alt="Mohamed's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats-theta-ruddy-48.vercel.app/api/top-langs/?username=6302Mohamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=8&v=2" alt="Top languages" height="150"/>
+  <img src="https://github-readme-stats-theta-ruddy-48.vercel.app/api?username=6302Mohamed&show_icons=true&hide_border=true&hide_rank=false&bg_color=000000&title_color=8B4513&icon_color=8B4513&text_color=F5E6D3&include_all_commits=true&count_private=true" alt="Mohamed's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats-theta-ruddy-48.vercel.app/api/top-langs/?username=6302Mohamed&layout=compact&hide_border=true&bg_color=000000&title_color=8B4513&text_color=F5E6D3&langs_count=8&v=2" alt="Top languages" height="150"/>
 </p>
 
 ---
