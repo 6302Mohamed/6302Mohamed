@@ -37,7 +37,7 @@
 <a href="https://www.upwork.com/freelancers/~01c1a0b66a5738131e">
   <img src="https://img.shields.io/badge/Upwork-8B4513?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arafatyousufomar3322@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedyousufhussein001@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -358,7 +358,7 @@ Human-in-the-loop AI systems
 ```
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arafatyousufomar3322@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedyousufhussein001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-yousuf-husein-606b15394/">
