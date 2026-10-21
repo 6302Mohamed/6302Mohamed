@@ -313,7 +313,7 @@ I apply that foundation when building AI workflows, automation systems, and back
 
 ## 📜 Certifications & Current Training
 
-- **Microsoft AI Agents: From Foundations to Applications** — Professional Certificate *(In Progress)*  
+- **Microsoft AI Agents: From Foundations to Applications** — Professional Certificate *(Finished)*  
   Focus: agentic AI foundations, tool-using agents, RAG, multi-agent patterns, Azure AI Foundry, evaluation, and enterprise AI workflows.
 
 - **Make.com Certified** — Foundations, Basics, and Advanced  
