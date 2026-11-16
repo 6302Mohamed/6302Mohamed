@@ -232,67 +232,54 @@ Business request
 If you have a manual workflow that is repetitive, messy, or difficult to track, I can help turn it into a reliable AI-assisted automation system.
 
 ---
-
 ## 🛠 Technical Toolbox
 
-### 🤖 Agentic AI & LLM Systems
-
+### 🤖 Agentic AI, RAG & Orchestration
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AI Services](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Knowledge_Workflows-purple?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-Agentic_AI-success?style=for-the-badge)
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-2B579A?style=for-the-badge&logo=microsoft&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG-Retrieval_Pipelines-6D28D9?style=for-the-badge)
 
-### 🔁 Workflow Automation & Orchestration
-
+### 🔁 Workflow Automation & API Integration
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make.com](https://img.shields.io/badge/Make.com-4433FF?style=for-the-badge&logo=make&logoColor=white)
 ![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-Workflow_Design-blueviolet?style=for-the-badge)
-![Approval Flows](https://img.shields.io/badge/Approval_Flows-Business_Logic-success?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-Event_Driven-D97706?style=for-the-badge)
 
-### 🔌 APIs, Webhooks & Structured Data
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-Event_Driven-orange?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP-API_Integration-black?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-Structured_Data-black?style=for-the-badge)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-Tool_Schemas-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-
-### 🚀 Backend, Databases & Deployment
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database_Design-336791?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-Backend_DB-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-### ☁️ Cloud & DevOps Foundation
-
-![Azure](https://img.shields.io/badge/Azure-Cloud_Foundation-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-Certification_in_Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-CS_Foundation-0EA5E9?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-DevOps_Foundation-111827?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🧪 LLMOps, Evaluation & Reliability
-
-![LLMOps](https://img.shields.io/badge/LLMOps-Evaluation_&_Reliability-blueviolet?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-111111?style=for-the-badge)
-![Langfuse](https://img.shields.io/badge/Langfuse-4F46E5?style=for-the-badge)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-E6522C?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-### 🧱 Software Engineering Foundation
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### 💻 Languages, Backend & Databases (SQL / NoSQL)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-CS_Foundation-374151?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-AI_Foundation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ Cloud, Infrastructure & DevOps
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure Bicep](https://img.shields.io/badge/Azure_Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧪 LLMOps, Observability & ML
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-E6522C?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-4F46E5?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
-
 ## 🎓 Education
 
 **B.S. in Computer Science | ISBAT University**  
@@ -316,10 +303,10 @@ I apply that foundation when building AI workflows, automation systems, and back
 - **Microsoft AI Agents: From Foundations to Applications** — Professional Certificate *(Finished)*  
   Focus: agentic AI foundations, tool-using agents, RAG, multi-agent patterns, Azure AI Foundry, evaluation, and enterprise AI workflows.
 
-- **Make.com Certified** — Foundations, Basics, and Advanced  
+- **Make.com Certified** — Foundations, Basics, and Advanced *(Finished)*
   Focus: scenario design, routers, filters, webhooks, HTTP/API integrations, workflow architecture, and business process automation.
 
-- **Microsoft Azure / Cloud Foundations** — Certification in Progress  
+- **Microsoft Azure Administrator** — Certification in *Progress*  
   Focus: Azure fundamentals, cloud computing concepts, Logic Apps exposure, and practical deployment concepts for AI-powered systems. 
 ---
 
