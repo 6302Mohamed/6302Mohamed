@@ -333,16 +333,13 @@ I apply that foundation when building AI workflows, automation systems, and back
 
 ## 🤝 Let’s Connect
 
-I am open to freelance work, technical collaborations, and early-career opportunities in:
+I’m available for freelance engineering, technical collaborations, and AI systems roles focused on:
 
-```text
-Agentic AI systems
-Workflow automation architecture
-LLM-powered business tools
-n8n / Make.com automation
-API-integrated operational workflows
-Human-in-the-loop AI systems
-```
+* **Agentic AI & Multi-Agent Orchestration** (Microsoft Agent Framework, Semantic Kernel, AutoGen, LangGraph)
+* **RAG & Knowledge Retrieval Pipelines** (Azure AI Search, Redis, hybrid search architectures)
+* **End-to-End Workflow Automation** (n8n, Make.com, Azure Logic Apps, human-in-the-loop approval flows)
+* **Production Backend & API Integration** (Python, FastAPI, C# / ASP.NET Core, REST/OpenAPI, event-driven webhooks)
+
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedyousufhussein001@gmail.com" target="_blank">
