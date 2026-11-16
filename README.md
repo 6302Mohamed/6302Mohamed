@@ -1,362 +1,163 @@
-<h1 align="center" style="line-height: 1.35; margin-bottom: 6px;">
-  Hi, I'm
-  <br/>
-  <img
-    style="display: inline-block;"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8B4513&center=true&vCenter=true&width=560&lines=Mohamed+Yousuf+Hussein"
-    alt="Mohamed Yousuf Hussein"
-  />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">
-</h1>
-
 <div align="center">
 
-### Agentic AI & Workflow Automation Engineer  
-**Computer Science • AI agents • workflow architecture • APIs • backend-connected automation**
-<div align="center">
+# 👋 Hi, I'm Mohamed Yousuf Hussein
 
-  <!-- Invisible u8views tracking request -->
-  <img
-    src="https://u8views.com/api/v1/github/profiles/117586613/views/pixel.svg"
-    width="0"
-    height="0"
-    alt=""
-  />
+### AI Automation Engineer | AI Agents · Python · Workflow Systems
 
-  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.day_count&label=Views%20today&color=8B4513&labelColor=3B2416" alt="Views Today"></a>
-  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.week_count&label=Week&color=8B4513&labelColor=3B2416" alt="Views This Week"></a>
-  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.month_count&label=Month&color=8B4513&labelColor=3B2416" alt="Views This Month"></a>
-  <a href="https://u8views.com/github/6302Mohamed"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fu8views.com%2Fapi%2Fv1%2Fgithub%2Fprofiles%2F117586613%2Fviews%2Fcount.json&query=%24.total_count&label=Total&color=8B4513&labelColor=3B2416" alt="Total Views"></a>
+**Building AI-powered business systems, not just connecting apps.**
 
-</div>
-<br/><br/>
+I help small businesses, growing teams, and larger organizations connect AI, APIs, databases, and the people who use them. My focus is reliable systems that fit how a business operates and stay understandable as it grows.
 
-<a href="https://www.linkedin.com/in/mohamed-yousuf-hussein-606b15394/">
-  <img src="https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.upwork.com/freelancers/~01c1a0b66a5738131e">
-  <img src="https://img.shields.io/badge/Upwork-8B4513?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedyousufhussein001@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p>
+  <a href="https://www.upwork.com/freelancers/~01c1a0b66a5738131e"><img alt="Hire me on Upwork" src="https://img.shields.io/badge/Work_with_me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohamed-yousuf-hussein-606b15394/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mohamedyousufhussein001@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Say_hello-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white">
+  <img alt="Make.com" src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+<sub>📍 Hargeisa, Somalia · Open to freelance projects and technical collaborations</sub>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 💡 What I can build for your business
 
-I am a **Computer Science graduate** focused on building AI-powered operational systems.
+| Need | Engineering approach |
+| --- | --- |
+| **AI receptionists and customer workflows** | Connect voice/chat assistants to scheduling, CRM or database logic, notifications, and human escalation. |
+| **Lead and customer intake** | Validate requests, qualify and route leads, update records, and trigger follow-ups or approval steps. |
+| **Operations and e-commerce automation** | Handle webhooks, order events, record synchronization, alerts, and exception paths across business tools. |
+| **AI-assisted document and knowledge workflows** | Integrate LLM APIs, document processing, structured outputs, retrieval where appropriate, and human review. |
+| **Custom integrations and business systems** | Connect APIs, databases, CRMs, and ERP systems where supported, using Python and custom logic when prebuilt nodes are not enough. |
+| **Deployment and CI/CD** | Help package, deploy, and update automation backends or companion applications; set up GitHub Actions for repeatable checks, builds, and deployments where appropriate. |
 
-My work sits at the intersection of **agentic AI, workflow automation, APIs, databases, and software engineering**. I build systems that do more than generate text: they collect information, call tools, validate inputs, route decisions, update records, notify humans, and handle edge cases.
+### 🧩 Modular when it matters
 
-I use tools like **n8n** and **Make.com** as orchestration layers, but my focus is not “connecting apps.” My focus is designing reliable business workflows where AI, APIs, databases, and human review work together.
+A small business may only need one well-designed workflow. As requirements grow, I prefer **loosely coupled components**: keep orchestration in n8n or Make.com, place important business rules behind clear API boundaries, and let databases or existing business systems remain the source of truth.
 
-Current direction:
+For larger integrations, including **ERP-connected operations**, service-oriented or microservices architectures can make sense when components need independent scaling, deployment, or maintenance. I choose that complexity only when it solves a real problem.
 
-```text
-Agentic AI engineering
-Workflow automation architecture
-LLM-powered business systems
-API-integrated operations
-Human-in-the-loop AI workflows
-```
+My approach is to **understand the business process, design clear integration boundaries, and make failure behavior explicit**. Workflows should validate inputs, report actual outcomes, avoid duplicate side effects where needed, and leave operators with clear ways to investigate or intervene.
 
-> **Engineering philosophy:** AI workflows should be useful, traceable, and safe to operate. If a system cannot be validated, monitored, or handed back to a human when needed, it is not ready for real operations.
+### 🔧 Already have a workflow? I can help with that, too.
 
----
+Not every project needs to start from scratch. If your existing **n8n or Make.com** automation is failing, difficult to maintain, or no longer fits the way your business works, I can help **troubleshoot issues, refine the logic, improve error handling, or extend its capabilities**. I also support ongoing maintenance and updates as your processes evolve.
 
-## 🧠 What I Build
-
-### 🤖 Agentic AI Systems
-
-I am learning and building toward advanced AI agent systems: agents that can use tools, retrieve knowledge, follow multi-step workflows, and operate inside real business processes.
-
-My current focus includes:
-
-- Tool-using AI agents
-- RAG-powered workflows
-- Multi-step reasoning systems
-- Human-in-the-loop agent workflows
-- Azure AI Foundry and Microsoft agentic AI ecosystem
-- LLM evaluation, reliability, and workflow safety
+I start by understanding what already works, then focus on practical improvements **without rebuilding parts of your system unnecessarily**.
 
 ---
 
-### 🔁 Workflow Automation Architecture
+## 🤝 The details I care about
 
-I design workflows around business logic, not just tool connections.
+I have a **Computer Science and software engineering background**, so I look beyond whether a workflow runs successfully once. I think about the less convenient moments too: unexpected inputs, duplicate events, unavailable APIs, expired credentials, and when a person needs to step in.
 
-This includes:
-
-- n8n, Make.com & Logic Apps workflow architecture
-- Webhooks and API integrations
-- Routers, filters, validation, and branching logic
-- Approval flows and human review loops
-- Error handling, retries, and fallback paths
-- Workflow documentation and reusable blueprints
-- Connecting business systems when the workflow needs them
-
-The specific apps can change from project to project. The important skill is understanding the process, designing the logic, and making the workflow reliable.
+I also believe **you should understand the system you're paying for**. That means clear workflow diagrams, plain-English documentation, and a practical handover: what it does, why it works that way, and what to check if something goes wrong. I’ll explain trade-offs without burying you in technical jargon.
 
 ---
 
-### 🧩 Software Engineering Foundation
+## 🚀 Selected projects
 
-My Computer Science foundation supports the way I approach automation and AI systems.
+### 🦷 [BrightSmile: Voice AI Dental Receptionist](https://github.com/6302Mohamed/ai-dental-receptionist-workflow)
+**Prototype · Vapi · n8n · Supabase/PostgreSQL · Slack · Google Calendar**
 
-Relevant areas:
+A voice-driven scheduling system for appointment booking, cancellations, waitlists, and staff coordination. Voice AI collects requests; backend database functions enforce booking rules and return the outcome. Uncertain actions are handed to staff rather than marked as successful.
 
-- Python programming
-- Backend/API design
-- Databases and SQL
-- Software engineering principles
-- System design fundamentals
-- Debugging and structured problem solving
-- Cloud Computing
-- Devops & CI-CD
-- AI/ML and computer vision foundation
+**Engineering details:** structured tool calls, webhook orchestration, database-owned scheduling decisions, retry/fallback handling, time-zone normalization, and consent-aware waitlist review.
 
-This is why I approach no-code and low-code platforms as orchestration tools, not as the full engineering layer.
+[Explore the architecture and implementation](https://github.com/6302Mohamed/ai-dental-receptionist-workflow)
 
----
+### ⚡ [Make.com Automation Case Studies](https://github.com/6302Mohamed/make-automation-projects)
+**Portfolio collection · Make.com · Webhooks · Airtable · Google Sheets · Slack**
 
-## 🚀 Featured Project Tracks
+Three documented workflow case studies: agency intake and routing, e-commerce order processing, and AI-assisted lead safeguards with human approval.
 
-### 🔁 n8n AI Workflow Systems
+**Engineering details:** branching logic, structured intake, operational notifications, reusable blueprints, review checkpoints, and implementation documentation.
 
-#### [AI Dental Receptionist Workflow](https://github.com/6302Mohamed/ai-dental-receptionist-workflow)
+[Explore the workflows](https://github.com/6302Mohamed/make-automation-projects#featured-projects)
 
-A voice-enabled AI workflow for appointment booking, cancellation, waitlisting, staff review, and calendar automation.
+### 💬 [Sketchy AI: Chat and Document Summarization](https://github.com/6302Mohamed/sketchy-ai-chatbot)
+**Python · Flask · Groq API · Docker**
 
-**Core architecture:**  
-`Vapi → n8n → Supabase → staff notification / calendar actions`
+An LLM-powered web application with multiple conversations, local history persistence, and summarization of TXT, PDF, and DOCX files.
 
-**What it demonstrates:**
+**Engineering details:** backend API integration, document extraction, app configuration, and containerized setup.
 
-- Structured tool calling
-- Webhook-based workflow orchestration
-- Supabase RPC scheduling logic
-- Booking, cancellation, and waitlist workflows
-- Retry logic and safe fallback statuses
-- Human-in-the-loop staff review
-- GitHub-safe documentation and sanitized workflow export
+[View the code and setup](https://github.com/6302Mohamed/sketchy-ai-chatbot)
 
-This project is not just a “voice agent.” It is a workflow architecture project showing how an AI interface can connect to real backend logic and operational decisions.
+### 🌱 [LeafAI: Offline Crop Disease Detection](https://github.com/6302Mohamed/leafai-crop-disease-detection)
+**Final-year project · Python · TensorFlow Lite · Kotlin · Android**
 
-**[View Project Documentation →](https://github.com/6302Mohamed/ai-dental-receptionist-workflow)**
+An offline-first mobile computer-vision application, taking models from dataset preparation and evaluation through TensorFlow Lite conversion to on-device inference.
+
+**Engineering details:** ML integration, efficient local inference, and design for limited connectivity.
+
+[Explore the project](https://github.com/6302Mohamed/leafai-crop-disease-detection)
 
 ---
 
-### ⚡ Make.com Automation Systems
+## ☁️ Hosted, self-hosted & cloud-aware delivery
 
-#### [Make Automation Projects](https://github.com/6302Mohamed/make-automation-projects)
+The workflow should fit **your infrastructure and operating requirements**, not the other way around.
 
-A collection of business automation projects built with Make.com, focused on intake, routing, validation, AI-assisted drafting, approvals, and business process automation.
+- **Managed automation:** n8n Cloud and Make.com workflows, integrations, environment-specific configuration, and operational handover.
+- **Self-hosted automation:** Docker-based n8n setups, webhook connectivity, secrets/configuration, persistence, backups, and maintenance considerations.
+- **Cloud infrastructure:** deployment planning and integration for **AWS** or **Microsoft Azure** virtual machines and container environments, depending on the project.
+- **Supporting services:** Python API components and dedicated backends when critical business logic should be separate from the workflow engine.
+- **Automated delivery:** GitHub Actions pipelines for testing, Docker builds, and repeatable deployments of code-based components; workflow deployment automation where supported by the platform.
 
-**What it demonstrates:**
+I consider access control, credential handling, logging, failure recovery, and ongoing ownership from the outset. Deployment details depend on the client's environment and requirements.
 
-- Make.com scenario design
-- Webhooks, routers, filters, and HTTP modules
-- Lead intake and qualification workflows
-- Approval and notification flows
-- AI-assisted workflow execution
-- Reusable automation blueprints and implementation notes
+## 🧰 Technical focus
 
-**[Explore Automation Projects →](https://github.com/6302Mohamed/make-automation-projects)**
+**Working toolkit:** Python · n8n · Make.com · REST APIs · Webhooks · Docker · PostgreSQL/Supabase · Flask · Git · GitHub Actions · LLM API integration
 
----
+**Systems thinking:** modular design · separation of concerns · API boundaries · microservices when justified · input validation · retries and fallbacks · human review · CI/CD · testing and documentation
 
-### 🤖 Python / LLM Applications
+**Expanding in the Microsoft AI ecosystem:** C# · .NET / ASP.NET Core · Azure · Microsoft Agent Framework · enterprise agent orchestration, evaluation, and observability. This is a developing specialization alongside my existing automation and AI application work.
 
-#### [Sketchy AI | Multimodal Chat & Summary](https://github.com/6302Mohamed/sketchy-ai-chatbot)
-
-An AI workspace for chat, file-based summarization, and persistent conversation threads.
-
-**Core stack:**  
-`Python • Flask • Groq • Docker`
-
-**What it demonstrates:**
-
-- LLM app development
-- File-aware AI workflows
-- Backend API structure
-- Persistent chat thread handling
-- Practical AI interface design
-
-**[View Project →](https://github.com/6302Mohamed/sketchy-ai-chatbot)**
 
 ---
 
-### 🌱 Earlier AI / Computer Vision Project
-
-#### [LeafAI | Crop Disease Detection](https://github.com/6302Mohamed/leafai-crop-disease-detection)
-
-A mobile-focused computer vision project for crop disease detection.
-
-**Core stack:**  
-`TensorFlow Lite • MobileNetV2 • Kotlin • Computer Vision`
-
-This project reflects my earlier AI/ML foundation before moving deeper into agentic AI systems and workflow automation.
-
-**[View Project →](https://github.com/6302Mohamed/leafai-crop-disease-detection)**
-
----
-
-## 💼 Work With Me
-
-I help teams turn messy, repetitive workflows into reliable AI-assisted systems.
-
-I do not just connect apps together. I map the business process, design the workflow logic, connect the required APIs or tools, add human review where needed, and document the system so it can actually be used.
-
-| Area | Common Problem | How I Help |
-|---|---|---|
-| Appointment-based businesses | Manual booking, cancellations, and follow-up | AI-assisted intake, scheduling workflows, staff alerts, and backend-connected booking logic |
-| Real estate teams | Leads scattered across forms, messages, and spreadsheets | Lead intake, qualification, routing, CRM-style updates, and follow-up workflows |
-| Customer support teams | Repetitive triage and slow response handling | AI-assisted classification, routing, draft replies, and escalation paths |
-| Internal operations | Admin tasks spread across disconnected tools | Workflow automation, approvals, notifications, reporting, and human-in-the-loop handoffs |
-| Document-heavy workflows | Manual review of forms, files, and extracted data | AI-assisted document intake, validation, routing, and review workflows |
-
-The pattern I focus on is:
-
-```text
-Business request
-→ AI assistant, form, or trigger
-→ structured tool call / webhook
-→ workflow automation
-→ backend source of truth
-→ team notification or task handoff
-→ human review when needed
-```
-If you have a manual workflow that is repetitive, messy, or difficult to track, I can help turn it into a reliable AI-assisted automation system.
-
----
-## 🛠 Technical Toolbox
-
-### 🤖 Agentic AI, RAG & Orchestration
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-2B579A?style=for-the-badge&logo=microsoft&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG-Retrieval_Pipelines-6D28D9?style=for-the-badge)
-
-### 🔁 Workflow Automation & API Integration
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-4433FF?style=for-the-badge&logo=make&logoColor=white)
-![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-Event_Driven-D97706?style=for-the-badge)
-
-### 💻 Languages, Backend & Databases (SQL / NoSQL)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ☁️ Cloud, Infrastructure & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Bicep](https://img.shields.io/badge/Azure_Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🧪 LLMOps, Observability & ML
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-E6522C?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-4F46E5?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-## 🎓 Education
-
-**B.S. in Computer Science | ISBAT University**  
-**Honors:** First Class Honors
-
-My degree gives me a foundation in:
-
-- Programming and software engineering
-- Databases and backend systems
-- Algorithms and data structures
-- Artificial intelligence and machine learning
-- Computer vision and neural networks
-- MVC architecture, clean code, and system design fundamentals
-
-I apply that foundation when building AI workflows, automation systems, and backend-connected LLM applications.
-
----
-
-## 📜 Certifications & Current Training
-
-- **Microsoft AI Agents: From Foundations to Applications** — Professional Certificate *(Finished)*  
-  Focus: agentic AI foundations, tool-using agents, RAG, multi-agent patterns, Azure AI Foundry, evaluation, and enterprise AI workflows.
-
-- **Make.com Certified** — Foundations, Basics, and Advanced *(Finished)*
-  Focus: scenario design, routers, filters, webhooks, HTTP/API integrations, workflow architecture, and business process automation.
-
-- **Microsoft Azure Administrator** — Certification in *Progress*  
-  Focus: Azure fundamentals, cloud computing concepts, Logic Apps exposure, and practical deployment concepts for AI-powered systems. 
----
-
-## 🌱 GitHub Contributions
+## 📈 GitHub activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6302Mohamed/6302Mohamed/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6302Mohamed/6302Mohamed/output/github-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/6302Mohamed/6302Mohamed/output/github-snake.svg">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6302Mohamed/6302Mohamed/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6302Mohamed/6302Mohamed/output/github-snake.svg">
+  <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/6302Mohamed/6302Mohamed/output/github-snake.svg">
+</picture>
+
+<br>
+
+<img alt="GitHub statistics" height="155" src="https://github-readme-stats-theta-ruddy-48.vercel.app/api?username=6302Mohamed&show_icons=true&hide_border=true&hide_rank=false&bg_color=0F172A&title_color=2DD4BF&icon_color=FBBF24&text_color=E2E8F0&include_all_commits=true&count_private=true">
+<img alt="Most used languages across GitHub repositories" height="155" src="https://github-readme-stats-theta-ruddy-48.vercel.app/api/top-langs/?username=6302Mohamed&layout=compact&hide_border=true&bg_color=0F172A&title_color=2DD4BF&text_color=E2E8F0&langs_count=8">
+
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## Working with me
 
-<p align="center">
-  <img src="https://github-readme-stats-theta-ruddy-48.vercel.app/api?username=6302Mohamed&show_icons=true&hide_border=true&hide_rank=false&bg_color=000000&title_color=8B4513&icon_color=8B4513&text_color=F5E6D3&include_all_commits=true&count_private=true" alt="Mohamed's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats-theta-ruddy-48.vercel.app/api/top-langs/?username=6302Mohamed&layout=compact&hide_border=true&bg_color=000000&title_color=8B4513&text_color=F5E6D3&langs_count=8&v=2" alt="Top languages" height="150"/>
-</p>
+I approach engagements as engineering work: **scope the process → map the data and APIs → implement and test → document and hand over**. I aim to make it clear what happens when everything works, when an external system fails, and when a person needs to take over.
 
----
+**Background:** First Class BSc in Computer Science, ISBAT University, Uganda.
 
-## 🤝 Let’s Connect
+Whether you need a new system or improvements to an existing one, tell me the tools involved and what you want to achieve.
 
-I’m available for freelance engineering, technical collaborations, and AI systems roles focused on:
+<div align="center">
 
-* **Agentic AI & Multi-Agent Orchestration** (Microsoft Agent Framework, Semantic Kernel, AutoGen, LangGraph)
-* **RAG & Knowledge Retrieval Pipelines** (Azure AI Search, Redis, hybrid search architectures)
-* **End-to-End Workflow Automation** (n8n, Make.com, Azure Logic Apps, human-in-the-loop approval flows)
-* **Production Backend & API Integration** (Python, FastAPI, C# / ASP.NET Core, REST/OpenAPI, event-driven webhooks)
+### ✨ Let's talk about your project
 
+<a href="https://www.upwork.com/freelancers/~01c1a0b66a5738131e"><img alt="Discuss your project on Upwork" src="https://img.shields.io/badge/Discuss_a_project-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"></a>
+<a href="mailto:mohamedyousufhussein001@gmail.com"><img alt="Get in touch by email" src="https://img.shields.io/badge/Contact_me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedyousufhussein001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-yousuf-husein-606b15394/">
-    <img src="https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01c1a0b66a5738131e">
-    <img src="https://img.shields.io/badge/Upwork-8B4513?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Hargeisa-8B4513?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-8B4513?style=flat-square" alt="Availability" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%2B%20Workflow%20Automation-8B4513?style=flat-square" alt="Focus" />
-</p>
-
+</div>
